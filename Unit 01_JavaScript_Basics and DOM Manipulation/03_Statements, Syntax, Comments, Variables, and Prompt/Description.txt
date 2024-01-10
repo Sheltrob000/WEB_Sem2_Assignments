@@ -1,0 +1,5 @@
+Use the window.prompt function to ask the user for their first name
+Then use it again to ask the user for their last name
+Then print thoses out to a p tag in html
+
+No need for a button
