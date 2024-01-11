@@ -1,0 +1,9 @@
+Use prompt to get two numbers.  Store them as number1 and number2
+
+Then create 5 variables.  
+sum, dif, prod, quo, and mod
+These should be determined like this
+
+sum = number1 + number2
+
+Then output them to the html file using innerHTML and getElementbyID
