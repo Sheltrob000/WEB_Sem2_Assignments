@@ -1,0 +1,4 @@
+Add to your form a radio button
+for grade level 
+and a checkbox with a random
+assortment of extra curriculars to select.  
