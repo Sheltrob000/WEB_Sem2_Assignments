@@ -1,0 +1,9 @@
+div {
+    box-shadow: 15px 5px;
+}
+p {
+    text-shadow: 5px 10px;
+}
+h1 {
+    text-shadow: 20px 20px;
+}
