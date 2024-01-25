@@ -1,0 +1,10 @@
+p{
+    word-break: break-all;
+}
+div{
+    width: 20px;
+    float: left;
+}
+p.fun {
+    writing-mode: vertical-lr;
+}
