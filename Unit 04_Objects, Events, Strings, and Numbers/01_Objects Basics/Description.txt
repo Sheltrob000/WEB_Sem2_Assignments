@@ -1,0 +1,4 @@
+Create an implement a js object called building
+think of 3 properties that a building should have and add them to the object.  
+
+No html /css required today.  

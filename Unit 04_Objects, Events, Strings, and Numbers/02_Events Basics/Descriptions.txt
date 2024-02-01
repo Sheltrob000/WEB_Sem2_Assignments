@@ -1,0 +1,8 @@
+Explore each on events
+
+onclick
+onchange
+onmouseover
+onmouseout
+onkeydown
+onload
