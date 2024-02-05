@@ -1,0 +1,3 @@
+Use template strings to store the lyrics of a song
+
+The output that template string to a paragraph tag in the html.  
