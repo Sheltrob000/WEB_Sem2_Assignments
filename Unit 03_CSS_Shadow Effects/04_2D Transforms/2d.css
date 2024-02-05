@@ -1,0 +1,19 @@
+div {
+    height: 40px;
+    color: aqua;
+    transform: rotate(10deg);
+    background-color: blue;
+    
+    
+}
+p {
+    transform: skew(45deg)
+}
+
+.die {
+    transform: skew(150deg);
+}
+
+.hello {
+    transform: translate(50px, 90px);
+}
