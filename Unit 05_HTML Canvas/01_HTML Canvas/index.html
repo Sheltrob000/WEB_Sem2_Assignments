@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+
+        </style>
+    </head>
+
+    <body>
+        <div id="block1">
+            <div id="controls1">
+                <label for="startAngle">Start Angle in Degrees: </label><br>
+                <input type="number" id="startAngle" name="startAngle">
+                <br>
+
+                <label for="endAngle">End Angle in Degrees: </label><br>
+                <input type="number" id="endAngle" name="endAngle">
+                <br>
+
+                <label for="radius">Radius: </label><br>
+                <input type="number" id="radius" name="radius">
+                <br>
+
+                <label for="centerX">CenterX: </label><br>
+                <input type="number" id="centerX" name="centerX">
+                <br>
+
+                <label for="centerY">CenterY: </label><br>
+                <input type="number" id="centerY" name="centerY">
+                <br>
+
+                <label for="ccw">CCW </label><br>
+                <input type="checkbox" id="ccw" name="ccw">
+                <br>
+
+                <br>
+                <button type="button" onclick="drawCircle()">Draw Circle</button>
+                <br>
+                <br>
+            </div>
+            <div id="canvas1">
+                <canvas id="myCanvas1" , width="200" height="200" style="border:1px solid #000000;">
+            </div>
+        </div>
+        <hr>
+        <div id="block2">
+            <div id="controls2">
+                <label for="startX">Starting X </label><br>
+                <input type="number" id="startX" name="startX">
+                <br>
+
+                <label for="startY">Starting Y</label><br>
+                <input type="number" id="startY" name="startY">
+                <br>
+
+                <label for="endX">Ending X </label><br>
+                <input type="number" id="endX" name="endX">
+                <br>
+
+                <label for="endY">Ending Y</label><br>
+                <input type="number" id="endY" name="endY">
+                <br>
+                <br>
+                <button type="button" onclick="drawLine()">Draw Line</button>
+                <br>
+                <br>
+            </div>
+            <div id="canvas1">
+                <canvas id="myCanvas2" , width="200" height="200" style="border:1px solid #000000;">
+            </div>
+        </div>
+        <hr>
+        <div id="block3">
+            <div id="controls3">
+                
+            </div>
+            <div id="canvas3">
+                <canvas id="myCanvas3" , width="200" height="200" style="border:1px solid #000000;">
+            </div>
+        </div>
+
+
+
+
+
+
+        <script src="script.js"></script>
+
+
+
+    </body>
+
+</html>

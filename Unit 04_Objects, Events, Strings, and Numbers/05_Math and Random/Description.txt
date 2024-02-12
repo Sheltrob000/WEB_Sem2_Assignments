@@ -1,3 +1,5 @@
 We are going to make a simple calculator but with advanced functionality
 
 This will be partially guided so nothing just yet
+
+Repeat for absolute value.  
