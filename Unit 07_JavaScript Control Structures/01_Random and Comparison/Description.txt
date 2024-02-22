@@ -1,0 +1,2 @@
+Create a JavaScript random dice roller
+//Guided
