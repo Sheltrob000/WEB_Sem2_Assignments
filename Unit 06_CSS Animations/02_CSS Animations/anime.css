@@ -1,0 +1,28 @@
+@keyframes example {
+    /* from {background-color: red;}
+    to {background-color: yellow;} */
+    0% {background-color:  blue;}
+    50% {background-color: aqua;}
+    100%{background-color: blue;}
+  }
+@keyframes colors {
+    0%   {background-color:red;}
+    25%  {background-color:yellow;}
+    50%  {background-color:blue;}
+    75%  {background-color:green;}
+    100% {background-color:red;}
+  }
+
+
+div {
+width: 100px;
+height: 100px;
+background-color: blue;
+animation-name: example;
+animation-duration: .5s;
+animation-iteration-count: infinite;
+}
+
+.col {
+    animation-name: colors;
+}
