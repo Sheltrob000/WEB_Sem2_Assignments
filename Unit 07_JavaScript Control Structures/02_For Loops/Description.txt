@@ -1,0 +1,4 @@
+Make an array of items in Javascript
+Use a For of Loop to print all items to a p tag
+Make a object
+Use a For In Loop to print its contents to another p tag 
