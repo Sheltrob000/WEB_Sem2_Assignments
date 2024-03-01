@@ -1,0 +1,4 @@
+Create an array of random numbers from 1 to 10
+print the array to the page in a p tag
+Sort the array
+Print the array to the page in another p tag
