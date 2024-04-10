@@ -7,5 +7,9 @@ for(let i = 0; i < 10; i++){
 
 document.getElementById("unsorted").innerHTML = numbers;
 
+const sorted = numbers.sort();
+
+document.getElementById("sorted").innerHTML = sorted;
+
 //YOUDO:  finish the sort and print to the sorted id
 
